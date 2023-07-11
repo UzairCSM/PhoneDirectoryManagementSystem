@@ -1,6 +1,8 @@
 # PhoneDirectoryManagementSystem
 This Repo Contains Java Code For Storing, Searching , updating ,Deleting Contact Information of the User.
 Usage
+Main Branch--> Readme File
+Master Branch--> Implementation File
 The application will present a menu with the following options:
 
 Add Contact: Allows you to add a new contact to the phone directory.
